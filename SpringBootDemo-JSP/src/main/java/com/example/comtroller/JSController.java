@@ -5,4 +5,8 @@ package com.example.comtroller;
  * @since 2019-01-28 15:03
  */
 public class JSController {
+
+    public String getIndex(){
+        return  "Success";
+    }
 }
