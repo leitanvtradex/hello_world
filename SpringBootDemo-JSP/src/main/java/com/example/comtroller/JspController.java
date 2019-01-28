@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  *@since2019-01-15 21:58
  *这是jsp整合springboot
  */
-
+//修改测试-1
 @Controller
 public class JspController {
     @RequestMapping("/jspindex")
