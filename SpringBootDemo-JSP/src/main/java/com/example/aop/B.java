@@ -5,5 +5,5 @@ package com.example.aop;
  * @since 2019-01-28 15:20
  */
 public class B {
-    //B
+    //BBBB
 }
