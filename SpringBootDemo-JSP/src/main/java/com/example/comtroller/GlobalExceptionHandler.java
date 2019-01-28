@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
  *1,捕获返回json格式
  *2,捕获返回页面
  */
-//修改测试2
 @ControllerAdvice(basePackages="com.example.comtroller")
 public class GlobalExceptionHandler {
 	
